@@ -13,5 +13,5 @@ This project analyzes telecom customer behavior to segment them using K-Means cl
 4. Evaluation & insights
 
 ## Output
-- 📊 Segmented customer profiles
-- 🧠 Churn prediction model (~80% accuracy)
+- Segmented customer profiles
+- Churn prediction model (~80% accuracy)
